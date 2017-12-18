@@ -1,0 +1,67 @@
+Table ENROLLMENT dropped.
+
+
+Table SECTION dropped.
+
+Table SECTION created.
+
+
+1 row inserted.
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Table ENROLLMENT created.
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+SECTI COURSEN COURSENAME                     SECTIONNUMBER INSTRUCTORNAME     
+----- ------- ------------------------------ ------------- --------------------
+32468 CSC 451 Database Design                          701 Schwabe             
+32534 CSC 552 Concurrent Software Dev                  710 Jagadeesan          
+33136 SE 480  Software Architecture                    701 Badr                
+21872 SE 477  Project Management                       801 Streeter            
+21867 SE 433  Software Testing                         901 Jia                 
+23011 CSC 503 Parallel Algorithms                      810 DiPierro            
+
+ 6 rows selected 
+
+
+STUDENT FIRSTNAME            LASTNAME             SECTI
+------- -------------------- -------------------- -----
+2589631 Brendan              Rooney               32468
+2589631                                           32534
+2589543 Katrina              Froehlich            33136
+2589543                                           21872
+2587346 Corey                Kluber               21867
+2587346                                           23011
+
+ 6 rows selected 
+
